@@ -1,3 +1,5 @@
+**This fork of MiDaS solves some common issues one might face when using modern versions of the Pytorch Image Models (timm) lybrary, as the original repository is compatible with version 0.6.13**
+
 ## Towards Robust Monocular Depth Estimation: Mixing Datasets for Zero-shot Cross-dataset Transfer
 
 This repository contains code to compute depth from a single image. It accompanies our [paper](https://arxiv.org/abs/1907.01341v3):
